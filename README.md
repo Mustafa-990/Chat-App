@@ -7,7 +7,7 @@ How to Run the application:
 - run "node app.js"
 or just go to "https://thawing-plains-12308.herokuapp.com/"
 
-Below are attached some pictures of the application:
+Below is an attached  picture of the application:
 
 ![image](https://user-images.githubusercontent.com/46281169/67625850-b10c0c00-f811-11e9-9c5a-3056e1617fda.png)
 

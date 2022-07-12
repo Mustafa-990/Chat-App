@@ -12,4 +12,5 @@ Below is an attached  picture of the application:
 ![image](https://user-images.githubusercontent.com/46281169/67625850-b10c0c00-f811-11e9-9c5a-3056e1617fda.png)
 
 
+<img width="1440" alt="Screen Shot 2022-07-12 at 6 59 21 PM" src="https://user-images.githubusercontent.com/98848760/178507846-68e7450b-5017-4452-8e8f-11ed245cef2d.png">
 
